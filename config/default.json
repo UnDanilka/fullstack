@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://danil:3000000@cluster0.pufvp.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "danil"
+}
